@@ -1,0 +1,8 @@
+.cartela li {
+  padding: 0.2em;
+}
+
+.cartela li span {
+    padding: .5rem 1rem;
+    border-radius: 4px;
+}
