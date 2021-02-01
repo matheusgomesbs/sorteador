@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Bingo Online [beMattZera]</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+  </head>
+  <body class="body bg-light">
+    
+  <div class="container">
+  <main>
+    <div class="py-5 text-center">
+      <img class="d-block mx-auto mb-4" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="" width="72" height="57">
+      <h2>Bingo online</h2>
+      <p class="lead">É um bingo online para os velhos digitalizados.</p>
+    </div>
+
+    <div class="row g-3">
+      <div class="col-md-5 col-lg-5 mx-auto">
+        <div class="mx-auto text-center">
+          <button class="btn btn-primary gerador">Gerar número</button>
+        </div>
+        <div class="mx-auto resultado text-center mt-5">
+        </div>
+
+        <hr />
+
+        <h4 class="d-flex justify-content-between align-items-center mb-3">
+          <span class="text-muted text-small">Cartela</span>
+          <span class="badge bg-secondary rounded-pill text-small ultimo-sorteado">Último sorteado: 0</span>
+          <span class="badge bg-secondary rounded-pill text-small total-sorteados">Sorteados: 0</span>
+        </h4>
+        <ul id="cartela" class="list-group mb-3 cartela">
+        </ul>
+      </div>
+    </div>
+  </main>
+
+    <footer class="my-5 pt-5 text-muted text-center text-small">
+      <p class="mb-1">© 2021 Matheus Gomes [beMattZera]</p>
+      <ul class="list-inline">
+        <li class="list-inline-item"><a href="https://www.twitch.tv/bemattzera">Twitch</a></li>
+      </ul>
+    </footer>
+  </div>
+  
+  <script src="js/script.js"></script>
+  <!-- JavaScript Bundle with Popper -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+  </body>
+</html>
