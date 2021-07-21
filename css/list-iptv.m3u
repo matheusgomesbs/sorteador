@@ -1,0 +1,65 @@
+
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2021/06/15/39381762-rick-and-morty.jpg" group-title="RICK AND MORTY", RICK AND MORTY T5|EP1
+https://cdn.ultracine.net/animes/rick-and-morty/dub/5/1v2.mp4?token=HnW0msDsA9IX00ZiLdyHkw&expires=1626857401
+ 
+#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2021/06/15/39381762-rick-and-morty.jpg" group-title="RICK AND MORTY", RICK AND MORTY T5|EP2
+https://cdn.ultracine.net/animes/rick-and-morty/dub/5/2.mp4?token=yu4UKsTqlBP0IBBV9EC3aw&expires=1626849757
+
+#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2021/06/15/39381762-rick-and-morty.jpg" group-title="RICK AND MORTY", RICK AND MORTY T5|EP3
+https://cdn.ultracine.net/animes/rick-and-morty/dub/5/3.mp4?token=12avECrX62K-VdVHeF2A2w&expires=1626849891
+ 
+#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2021/06/15/39381762-rick-and-morty.jpg" group-title="RICK AND MORTY", RICK AND MORTY T5|EP4
+https://cdn.ultracine.net/animes/rick-and-morty/dub/5/4.mp4?token=sSjBvy0jIOgZLmeLn-XdEQ&expires=1626849943
+ 
+#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2021/06/15/39381762-rick-and-morty.jpg" group-title="RICK AND MORTY", RICK AND MORTY T5|EP5
+https://cdn.ultracine.net/animes/rick-and-morty/dub/5/5.mp4?token=Yc_pfA60l7KzWkpVHxkMOA&expires=1626849990
+
+#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/03/18/1055866470-loki-poster-oficial-1.jpg" group-title="LOKI", LOKI T1|EP1
+https://saturn.astr.site/getSerie.php?q=hd&dir=bG9raQ==&s=MS0xLm1wNA==&id=MTA3MA==&token=MjhjMjU2M2VjOTVjNjFiOTE5NTBjY2M0MmQyZjgwYzk=
+
+#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/03/18/1055866470-loki-poster-oficial-1.jpg" group-title="LOKI", LOKI T1|EP2
+https://saturn.astr.site/getSerie.php?q=hd&dir=bG9raQ==&s=MS0yLm1wNA==&id=MTA3MQ==&token=MjhjMjU2M2VjOTVjNjFiOTE5NTBjY2M0MmQyZjgwYzk
+
+#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/03/18/1055866470-loki-poster-oficial-1.jpg" group-title="LOKI", LOKI T1|EP3
+https://s4.astr.site/getSerie.php?q=hd&dir=bG9raQ==&s=MS0zLm1wNA==&id=MTA3Mg==&token=MjhjMjU2M2VjOTVjNjFiOTE5NTBjY2M0MmQyZjgwYzk=
+
+#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/03/18/1055866470-loki-poster-oficial-1.jpg" group-title="LOKI", LOKI T1|EP4
+https://s4.astr.site/getSerie.php?q=hd&dir=bG9raQ==&s=MS00Lm1wNA==&id=MTA3Mw==&token=MjhjMjU2M2VjOTVjNjFiOTE5NTBjY2M0MmQyZjgwYzk=
+
+#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/03/18/1055866470-loki-poster-oficial-1.jpg" group-title="LOKI", LOKI T1|EP5
+https://saturn.astr.site/getSerie.php?q=hd&dir=bG9raQ==&s=MS01Lm1wNA==&id=MTA3NA==&token=MjhjMjU2M2VjOTVjNjFiOTE5NTBjY2M0MmQyZjgwYzk=
+
+#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/03/18/1055866470-loki-poster-oficial-1.jpg" group-title="LOKI", LOKI T1|EP6
+https://s4.astr.site/getSerie.php?q=hd&dir=bG9raQ==&s=MS02Lm1wNA==&id=MTA3NQ==&token=MjhjMjU2M2VjOTVjNjFiOTE5NTBjY2M0MmQyZjgwYzk=
+
+#EXTINF:0,CATVE
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+
+#EXTINF:0,ITU TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+
+#EXTINF:0,SUMMER TV
+http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
+
+#EXTINF:0,TV CALDEIRÃO
+http://wz5.dnip.com.br:1935/tvcaldeirao/tvcaldeirao.sdp/live.m3u8
+
+#EXTINF:0,TV CAXIAS
+http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8
+
+#EXTINF:0,TV CI
+http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
+
+#EXTINF:0,TV JORNAL RECIFE
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/5Fqo8UUjfo/CH937NOvLAQQQqJc.gif" group-title="CANAL ABERTO",TV CULTURA 
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAL ABERTO",TV APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAL ABERTO",RECORD NEWS
+https://www.youtube.com/watch?v=eFiNz4ZlWA0
