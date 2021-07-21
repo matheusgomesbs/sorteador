@@ -1,36 +1,36 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2021/06/15/39381762-rick-and-morty.jpg" group-title="RICK AND MORTY", RICK AND MORTY T5|EP1
+#EXTINF:0 tvg-logo="https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2021/06/15/39381762-rick-and-morty.jpg" group-title="RICK AND MORTY", RICK AND MORTY T5|EP1
 https://play.bolsonaro.xyz/public/dist/index.html?id=66f6a501ecfe9d897e8dfe346b8f61ae
  
-#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2021/06/15/39381762-rick-and-morty.jpg" group-title="RICK AND MORTY", RICK AND MORTY T5|EP2
+#EXTINF:0 tvg-logo="https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2021/06/15/39381762-rick-and-morty.jpg" group-title="RICK AND MORTY", RICK AND MORTY T5|EP2
 https://play.bolsonaro.xyz/public/dist/index.html?id=7f8ea61de7dbd11dd23c8cf26c72d6af
 
-#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2021/06/15/39381762-rick-and-morty.jpg" group-title="RICK AND MORTY", RICK AND MORTY T5|EP3
+#EXTINF:0 tvg-logo="https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2021/06/15/39381762-rick-and-morty.jpg" group-title="RICK AND MORTY", RICK AND MORTY T5|EP3
 https://play.bolsonaro.xyz/public/dist/index.html?id=ba8e5f6cd9efbb2e4681464068c87775
  
-#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2021/06/15/39381762-rick-and-morty.jpg" group-title="RICK AND MORTY", RICK AND MORTY T5|EP4
+#EXTINF:0 tvg-logo="https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2021/06/15/39381762-rick-and-morty.jpg" group-title="RICK AND MORTY", RICK AND MORTY T5|EP4
 https://play.bolsonaro.xyz/public/dist/index.html?id=a8c9f1d8b701d608400c0394e34498a5
  
-#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2021/06/15/39381762-rick-and-morty.jpg" group-title="RICK AND MORTY", RICK AND MORTY T5|EP5
+#EXTINF:0 tvg-logo="https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2021/06/15/39381762-rick-and-morty.jpg" group-title="RICK AND MORTY", RICK AND MORTY T5|EP5
 https://play.bolsonaro.xyz/public/dist/index.html?id=1d10fa3986f1fa63b326cb1ee40f35e9
 
-#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/03/18/1055866470-loki-poster-oficial-1.jpg" group-title="LOKI", LOKI T1|EP1
+#EXTINF:1 tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/03/18/1055866470-loki-poster-oficial-1.jpg" group-title="LOKI", LOKI T1|EP1
 https://saturn.astr.site/getSerie.php?q=hd&dir=bG9raQ==&s=MS0xLm1wNA==&id=MTA3MA==&token=MjhjMjU2M2VjOTVjNjFiOTE5NTBjY2M0MmQyZjgwYzk=
 
-#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/03/18/1055866470-loki-poster-oficial-1.jpg" group-title="LOKI", LOKI T1|EP2
+#EXTINF:1 tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/03/18/1055866470-loki-poster-oficial-1.jpg" group-title="LOKI", LOKI T1|EP2
 https://saturn.astr.site/getSerie.php?q=hd&dir=bG9raQ==&s=MS0yLm1wNA==&id=MTA3MQ==&token=MjhjMjU2M2VjOTVjNjFiOTE5NTBjY2M0MmQyZjgwYzk
 
-#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/03/18/1055866470-loki-poster-oficial-1.jpg" group-title="LOKI", LOKI T1|EP3
+#EXTINF:1 tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/03/18/1055866470-loki-poster-oficial-1.jpg" group-title="LOKI", LOKI T1|EP3
 https://s4.astr.site/getSerie.php?q=hd&dir=bG9raQ==&s=MS0zLm1wNA==&id=MTA3Mg==&token=MjhjMjU2M2VjOTVjNjFiOTE5NTBjY2M0MmQyZjgwYzk=
 
-#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/03/18/1055866470-loki-poster-oficial-1.jpg" group-title="LOKI", LOKI T1|EP4
+#EXTINF:1 tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/03/18/1055866470-loki-poster-oficial-1.jpg" group-title="LOKI", LOKI T1|EP4
 https://s4.astr.site/getSerie.php?q=hd&dir=bG9raQ==&s=MS00Lm1wNA==&id=MTA3Mw==&token=MjhjMjU2M2VjOTVjNjFiOTE5NTBjY2M0MmQyZjgwYzk=
 
-#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/03/18/1055866470-loki-poster-oficial-1.jpg" group-title="LOKI", LOKI T1|EP5
+#EXTINF:1 tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/03/18/1055866470-loki-poster-oficial-1.jpg" group-title="LOKI", LOKI T1|EP5
 https://saturn.astr.site/getSerie.php?q=hd&dir=bG9raQ==&s=MS01Lm1wNA==&id=MTA3NA==&token=MjhjMjU2M2VjOTVjNjFiOTE5NTBjY2M0MmQyZjgwYzk=
 
-#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/03/18/1055866470-loki-poster-oficial-1.jpg" group-title="LOKI", LOKI T1|EP6
+#EXTINF:11 tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/03/18/1055866470-loki-poster-oficial-1.jpg" group-title="LOKI", LOKI T1|EP6
 https://s4.astr.site/getSerie.php?q=hd&dir=bG9raQ==&s=MS02Lm1wNA==&id=MTA3NQ==&token=MjhjMjU2M2VjOTVjNjFiOTE5NTBjY2M0MmQyZjgwYzk=
 
 #EXTINF:0,CATVE
