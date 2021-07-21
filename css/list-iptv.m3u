@@ -1,20 +1,19 @@
-
 #EXTM3U
  
 #EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2021/06/15/39381762-rick-and-morty.jpg" group-title="RICK AND MORTY", RICK AND MORTY T5|EP1
-https://cdn.ultracine.net/animes/rick-and-morty/dub/5/1v2.mp4?token=HnW0msDsA9IX00ZiLdyHkw&expires=1626857401
+https://ultracine.app/player/25/66f6a501ecfe9d897e8dfe346b8f61ae
  
 #EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2021/06/15/39381762-rick-and-morty.jpg" group-title="RICK AND MORTY", RICK AND MORTY T5|EP2
-https://cdn.ultracine.net/animes/rick-and-morty/dub/5/2.mp4?token=yu4UKsTqlBP0IBBV9EC3aw&expires=1626849757
+https://ultracine.app/player/25/7f8ea61de7dbd11dd23c8cf26c72d6af
 
 #EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2021/06/15/39381762-rick-and-morty.jpg" group-title="RICK AND MORTY", RICK AND MORTY T5|EP3
-https://cdn.ultracine.net/animes/rick-and-morty/dub/5/3.mp4?token=12avECrX62K-VdVHeF2A2w&expires=1626849891
+https://ultracine.app/player/25/ba8e5f6cd9efbb2e4681464068c87775
  
 #EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2021/06/15/39381762-rick-and-morty.jpg" group-title="RICK AND MORTY", RICK AND MORTY T5|EP4
-https://cdn.ultracine.net/animes/rick-and-morty/dub/5/4.mp4?token=sSjBvy0jIOgZLmeLn-XdEQ&expires=1626849943
+https://ultracine.app/player/25/a8c9f1d8b701d608400c0394e34498a5
  
 #EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2021/06/15/39381762-rick-and-morty.jpg" group-title="RICK AND MORTY", RICK AND MORTY T5|EP5
-https://cdn.ultracine.net/animes/rick-and-morty/dub/5/5.mp4?token=Yc_pfA60l7KzWkpVHxkMOA&expires=1626849990
+https://ultracine.app/player/25/1d10fa3986f1fa63b326cb1ee40f35e9
 
 #EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/03/18/1055866470-loki-poster-oficial-1.jpg" group-title="LOKI", LOKI T1|EP1
 https://saturn.astr.site/getSerie.php?q=hd&dir=bG9raQ==&s=MS0xLm1wNA==&id=MTA3MA==&token=MjhjMjU2M2VjOTVjNjFiOTE5NTBjY2M0MmQyZjgwYzk=
